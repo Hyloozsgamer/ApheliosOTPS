@@ -1,4 +1,8 @@
-# <p align="center">🔮 ALUNE.SYS - APHELIOS SYSTEM OS 🔮</p>
+<p align="center">
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+</p>
+
+# <p align="center">🌙 ALUNE.SYS - APHELIOS SYSTEM OS 🌕</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Initializing...-blueviolet?style=for-the-badge" alt="Status">
