@@ -175,12 +175,39 @@ Imagina que tu rango es de **650** (Calibrum) y el de tu rival es de **550** (Xa
 
 ---
 
-#### 📏 Gestión Visual de Distancia según el Arma
+#### 📏 4.3. Visualización Táctica de Rangos (Range-Spacing)
 
-| Estilo de Kiting | Dinámica de Movimiento | Visualización del Rango |
-| :--- | :--- | :---: |
-| **Zoneo (Calibrum)** | **Retroceso Simétrico**: Si el rival avanza 10 píxeles, tú retrocedes 10 píxeles. | 🟢 `Aphelios` <--> [650] <--> 🎯 `Enemigo` |
-| **Lethal (Crescendum)** | **Carga Frontal**: El DPS aumenta si estás cerca. Camina **HACIA** el rival. | ⚪ `Aphelios` <--> [150] <--> 🎯 `Enemigo` |
+<div align="center">
+  <h3>Distancia de Seguridad vs Burst Zone</h3>
+  <table border="0">
+    <tr>
+      <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Aphelios_Calibrum.png" width="30"> <b>Calibrum</b></td>
+      <td><code>🟢 [650]</code></td>
+      <td>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 🎯</td>
+    </tr>
+    <tr>
+      <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Aphelios_Severum.png" width="30"> <b>Severum</b></td>
+      <td><code>🔴 [550]</code></td>
+      <td>🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 🎯</td>
+    </tr>
+    <tr>
+      <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Aphelios_Gravitum.png" width="30"> <b>Gravitum</b></td>
+      <td><code>🟣 [550]</code></td>
+      <td>🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 🎯</td>
+    </tr>
+    <tr>
+      <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Aphelios_Infernum.png" width="30"> <b>Infernum</b></td>
+      <td><code>🔵 [550]</code></td>
+      <td>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 🎯</td>
+    </tr>
+    <tr>
+      <td><img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Aphelios_Crescendum.png" width="30"> <b>Crescendum</b></td>
+      <td><code>⚪ [525]</code></td>
+      <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 🎯</td>
+    </tr>
+  </table>
+  <p><i>Nota: A menor rango (Crescendum), mayor DPS por retorno de bumerán rápido. A mayor rango (Calibrum), mayor seguridad y spacing.</i></p>
+</div>
 
 ---
 
@@ -205,8 +232,27 @@ Imagina que tu rango es de **650** (Calibrum) y el de tu rival es de **550** (Xa
 
 ## 🛠️ 6. Estructura del Sistema
 
-- [`scripts/combos.md`](./scripts/combos.md): Manual de mecánicas para el campo de pruebas.
-- [`matchups.json`](./matchups.json) y [`builds.yml`](./builds.yml).
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Aphelios_Icon.png" width="40"><br>
+        <a href="./scripts/combos.md"><b>Manual de Combos</b></a><br>
+        <small>Rotaciones y Cancels</small>
+      </td>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Infinite_Edges%28Wild_Rift%29.png" width="40" onerror="this.src='https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Gold_icon.png'"><br>
+        <a href="./builds.yml"><b>Base de Builds</b></a><br>
+        <small>Configuraciones de Objetos</small>
+      </td>
+      <td align="center">
+        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png" width="25"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png" width="25"><br>
+        <a href="./matchups.json"><b>Matriz de Matchups</b></a><br>
+        <small>Datos de Draft y counters</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <p align="center"><i>"The moon will guide us." - Alune</i></p>
