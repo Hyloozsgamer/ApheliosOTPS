@@ -241,7 +241,7 @@ Imagina que tu rango es de **650** (Calibrum) y el de tu rival es de **550** (Xa
         <small>Rotaciones y Cancels</small>
       </td>
       <td align="center">
-        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Infinite_Edges%28Wild_Rift%29.png" width="40" onerror="this.src='https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Gold_icon.png'"><br>
+        <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Infinity_Edge_item.png/revision/latest?cb=20201104234931" width="40"><br>
         <a href="./builds.yml"><b>Base de Builds</b></a><br>
         <small>Configuraciones de Objetos</small>
       </td>
