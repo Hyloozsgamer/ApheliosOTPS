@@ -254,6 +254,21 @@ Para activar la **Rotación Apex** (Severum -> Calibrum -> Gravitum...), debes v
 
 ---
 
+### 🐉 5.2. Gestión de Dragones (LCK Priority)
+
+El control de objetivos neutrales dicta el escalado. Aquí tienes la prioridad de los dragones para Aphelios:
+
+| Dragón | Tier | Beneficio para Aphelios | Explicación del Coach LCK |
+| :---: | :---: | :--- | :--- |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Ocean_DrakeSquare.png/revision/latest?cb=20170408124213" width="30"> **Océano** | ⭐ **S+** | Regen. de Vida (Sustain) | Aphelios carece de movilidad. La regeneración pasiva te permite tradear en línea continuamente sin verte forzado a backear. Vital con Severum. |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Hextech_DrakeSquare.png/revision/latest?cb=20211106021011" width="30"> **Hextech** | 🟢 **S** | Velocidad de Ataque y Slow | El daño encadenado y la velocidad escalan absurdamente con Crescendum. Los portales otorgan la movilidad que tú no tienes para rotar. |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a0/Infernal_DrakeSquare.png/revision/latest?cb=20170408124043" width="30"> **Infernal** | 🟢 **S** | Daño Adaptativo (AD) | Como Hypercarry de Crítico, la bonificación de AD bruto multiplica tu daño en Teamfights con Infernum o Calibrum de forma masiva. |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Mountain_DrakeSquare.png/revision/latest?cb=20170408124115" width="30"> **Montaña** | 🟡 **A** | Armadura y Resilencia | Muy útil contra composiciones de Burst / Assassins. Aphelios es de papel; la armadura te da 1.5s más de reacción para que tu support te salve. |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Chemtech_DrakeSquare.png/revision/latest?cb=20211106020959" width="30"> **Quimtech**| 🟡 **A** | Tenacidad y Curación | Permite aguantar más CC residual y potencia el robo de vida de Severum en un 5% extra. |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Cloud_DrakeSquare.png/revision/latest?cb=20170408123837" width="30"> **Nube** | 🔴 **B** | Vel. Movimiento CD de R | Menos prioritario, pero la velocidad tras lanzar la `<kbd>R</kbd>` es clave para reposicionarte (Kiting) en peleas intensas. |
+
+---
+
 ## 🛠️ 6. Estructura del Sistema
 
 <div align="center">
