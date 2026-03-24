@@ -1,7 +1,7 @@
 # 📖 MANUAL DE COMBOS MECÁNICOS (Season 2026)
 # ==========================================
 
-## 🟢 CALIBRUM (Rifle) + 🔴 SEVERUM (Pistola)
+## 🟢 CALIBRUM + 🔴 SEVERUM
 ### 1. **The Life Stealer Poke**
 *   **Arma Activa**: Severum 🔴 | **Arma Secundaria**: Calibrum 🟢
 *   **Secuencia**:
@@ -12,7 +12,7 @@
 
 ---
 
-## 🟢 CALIBRUM (Rifle) + 🟣 GRAVITUM (Cañón)
+## 🟢 CALIBRUM + 🟣 GRAVITUM
 ### 2. **The Long-Range Root (Sniper CC)**
 *   **Arma Activa**: Calibrum 🟢 | **Arma Secundaria**: Gravitum 🟣
 *   **Secuencia**:
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔵 INFERNUM (Lanzallamas) + ⚪ CRESCENDUM (Chakram)
+## 🔵 INFERNUM + ⚪ CRESCENDUM
 ### 3. **The Wave Clear Stack**
 *   **Arma Activa**: Infernum 🔵 | **Arma Secundaria**: Crescendum ⚪
 *   **Secuencia**:
@@ -31,6 +31,30 @@
     2.  Cada minion golpeado genera un Chakram de `Crescendum`.
     3.  Cambia a `Crescendum` (W) y tendrás un stack enorme para tradear con el rival en melé.
 *   **Uso**: Control de oleadas e invasiones agresivas.
+
+---
+
+## 🌌 COMBOS AVANZADOS (Level: GrandMaster+)
+
+### 4. **The 4-Weapon Sentence (Theoretical Maximum Burst)**
+*   **Escenario**: Calibrum 🟢 (10 balas) + Severum 🔴 (10 balas) + Gravitum 🟣 (Secundaria).
+*   **Secuencia**:
+    1.  Usa `Severum Q` (Aplica marcas de Calibrum, gasta munición).
+    2.  Cae `Gravitum` como arma secundaria.
+    3.  Activa la marca de `Calibrum` (Aplica Gravitum).
+    4.  Usa `Calibrum Q` (Aplica Gravitum, gasta Calibrum).
+    5.  Cae `Infernum` como arma primaria.
+    6.  Usa `Gravitum Q` (Inmoviliza).
+    7.  Termina con `Infernum R` para borrar la zona.
+*   **Uso**: Borrar una teamfight de un solo golpe. Requiere gestión perfecta de munición.
+
+### 5. **The Crescent Tower Defense (Turret Setup)**
+*   **Arma Activa**: Crescendum ⚪ | **Arma Secundaria**: Calibrum 🟢
+*   **Secuencia**:
+    1.  Coloca una torreta con `Crescendum Q` (Usa Calibrum).
+    2.  Cada vez que la torreta golpee a un enemigo, generará una marca de `Calibrum`.
+    3.  Dispara la marca desde la distancia con `Crescendum` para acumular Chakrams a rango seguro.
+*   **Uso**: Control de zonas (Dragón, Barón) y proteger asedios.
 
 ---
 

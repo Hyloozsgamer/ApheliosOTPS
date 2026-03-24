@@ -51,6 +51,71 @@
         "mid": "Gravitum para anular su E",
         "late": "DPS superior en melé"
       }
+    },
+    {
+      "champion": "Lucian",
+      "tier": "S",
+      "threat_level": "High",
+      "support_synergy": ["Nami", "Milio", "Braum"],
+      "win_rate": 47.5,
+      "micro_strategy": "Burst Alert. Mantener distancia con Calibrum. Gravitum para repeler su Dash (E).",
+      "counters": {
+        "early": "Evitar trades de 2v2 a nivel 2",
+        "mid": "Poner Gravitum Root si usa E agresivo",
+        "late": "Superior en teamfight sostenido"
+      }
+    },
+    {
+      "champion": "Kai'Sa",
+      "tier": "B",
+      "threat_level": "Medium",
+      "support_synergy": ["Nautilus", "Leona", "Rell"],
+      "win_rate": 50.1,
+      "micro_strategy": "Evitar trades cortos aislados por su pasiva. Infernum castiga si se esconde en minions.",
+      "counters": {
+        "early": "Empujar con Infernum para quitarle rango",
+        "mid": "Gravitum para kitear su R dive",
+        "late": "Crescendum gana el 1v1 si tienes Chakrams"
+      }
+    },
+    {
+      "champion": "Samira",
+      "tier": "A",
+      "threat_level": "High",
+      "support_synergy": ["Nautilus", "Rell", "Thresh"],
+      "win_rate": 49.3,
+      "micro_strategy": "Guarda Gravitum Q. Interrumpe su R instantáneamente. Nunca gastes Infernum R en su W (Blade Whirl).",
+      "counters": {
+        "early": "Poke con Calibrum sin fallar habilidades",
+        "mid": "Root con Gravitum antes de que salte",
+        "late": "Severum Q para curarse de su burst"
+      }
+    },
+    {
+      "champion": "Caitlyn",
+      "tier": "S",
+      "threat_level": "High",
+      "support_synergy": ["Lux", "Morgana", "Karma"],
+      "win_rate": 48.7,
+      "micro_strategy": "Te superará en rango. Usa Calibrum para responder Poke. Severum para curarte de sus trampas.",
+      "counters": {
+        "early": "No dejar que te empuje bajo torre",
+        "mid": "Infernum para clear wave rápido",
+        "late": "Crescendum flash-all-in si está mal posicionada"
+      }
+    },
+    {
+      "champion": "Ashe",
+      "tier": "B",
+      "threat_level": "Medium",
+      "support_synergy": ["Milio", "Lulu", "Karma"],
+      "win_rate": 50.8,
+      "micro_strategy": "Kiteable. Cuidado con su R (Arrow). Usa Cleanse o Gravitum para responder CC.",
+      "counters": {
+        "early": "Trata de esquivar la W detrás de minions",
+        "mid": "Gravitum set-up para gank",
+        "late": "Dps superior en melé"
+      }
     }
   ]
 }
