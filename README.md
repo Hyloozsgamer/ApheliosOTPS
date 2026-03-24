@@ -153,11 +153,31 @@ La diferencia entre un jugador promedio y un Tier-1 es el **Auto-Spacing** basad
 
 ---
 
-### 🖱️ 4.2. Fundamentos de Kiting LCK (Auto-Spacing)
-Un carry de Aphelios debe dominar el margen de golpeo para no recibir daño:
-1.  **A-Click Technique**: Configura el "Attack Move on Cursor". No hagas click derecho en el enemigo, hazlo en el suelo cerca de él mientras retrocedes. Esto cancela la animación de *recoil* (levantar el arma) 0.3s antes.
-2.  **Space Spacing (Calibrum)**: Mantén al enemigo en la punta de tu rango. Si él avanza, tú retrocedes un paso. Mantén la distancia de seguridad.
-3.  **Kiting Inverso (Crescendum)**: Las cuchillas regresan más rápido cuanto más cerca estés. Camina **hacia el enemigo** si estás seguro de ganar el duelo para multiplicar tu daño.
+### 🖱️ 4.2. Fundamentos de Kiting LCK: The Space Gliding Sequence
+
+No se trata de clickear rápido, se trata de **ritmo**. Aquí te mostramos la secuencia visual de un **Analista LCK** para dar hit sin recibir:
+
+#### 🔁 Bucle del Auto-Spacing (Dar Hit y Retroceder)
+<p align="center">
+  <img src="https://img.shields.io/badge/PASO%201-A--Click-blueviolet?style=flat-square"> ➡️ 
+  <img src="https://img.shields.io/badge/PASO%202-Disparo%20(Frame%201)-teal?style=flat-square"> ➡️ 
+  <img src="https://img.shields.io/badge/PASO%203-Click%20Suelo%20(Atrás)-red?style=flat-square">
+</p>
+
+1.  **A-Click**: Presionas `A` y Click Derecho en el suelo cerca del enemigo. Aphelios ataca a rango máximo solo.
+2.  **Disparo**: El proyectil sale del arma. En ese exacto milisegundo tu personaje se detiene para disparar.
+3.  **Click Suelo (Atrás)**: Click Derecho hacia atrás instantáneamente. Cancela la animación de *recoil* y empiezas a moverte 0.2s antes de lo normal.
+
+---
+
+#### 📏 Gestión Visual de Distancia según el Arma
+
+| Estilo de Kiting | Dinámica de Movimiento | Visualización del Rango |
+| :--- | :--- | :---: |
+| **Zoneo (Calibrum)** | **Retroceso Simétrico**: Si el rival avanza 10 píxeles, tú retrocedes 10 píxeles. | 🟢 `Aphelios` <--> [650] <--> 🎯 `Enemigo` |
+| **Lethal (Crescendum)** | **Carga Frontal**: El DPS aumenta si estás cerca. Camina **HACIA** el rival. | ⚪ `Aphelios` <--> [150] <--> 🎯 `Enemigo` |
+
+---
 
 ### 🛡️ 4.2. Control de Oleadas (Wave State Controller)
 -   **Wave 1 y 2 (Slow Push)**: Solo das Last Hit. Deja que los minions se acumulen para formar una "Ola Gigante".
