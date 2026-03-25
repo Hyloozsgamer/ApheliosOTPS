@@ -7,6 +7,7 @@
       "support_synergy": ["Milio", "Lulu", "Yuumi"],
       "win_rate": 51.5,
       "micro_strategy": "Castigar early con Calibrum range advantage. Gravitum para detener su R/E en teamfights.",
+      "recommended_build": "Burst Assassination (Collector First)",
       "counters": {
         "early": "Abusar de rango con Calibrum",
         "mid": "Infernum R en agrupaciones",
@@ -20,6 +21,7 @@
       "support_synergy": ["Thresh", "Nautilus", "Blitzcrank"],
       "win_rate": 48.2,
       "micro_strategy": "Escala igual de bien. Infernum R en teamfights gana la pelea sola si se agrupan.",
+      "recommended_build": "Hyper Carry Critical (IE Rush)",
       "counters": {
         "early": "Trade corto con Severum Q",
         "mid": "Crescendum stack si intenta dive",
@@ -33,6 +35,7 @@
       "support_synergy": ["Pyke", "Leona", "Nautilus"],
       "win_rate": 45.0,
       "micro_strategy": "PELIGRO MÁXIMO. Sobrevivir con Severum para sustain. No tradear antes de nivel 6.",
+      "recommended_build": "DPS Sustained (Bloodthirster Rush)",
       "counters": {
         "early": "Farm seguro bajo torre, no morir",
         "mid": "Gravitum gank set-up",
@@ -46,6 +49,7 @@
       "support_synergy": ["Karma", "Bard", "Lux"],
       "win_rate": 53.8,
       "micro_strategy": "Línea tranquila. Stackear Crescendum detrás de minions y obligar a dive.",
+      "recommended_build": "Burst Assassination (Essence Reaver + Collector)",
       "counters": {
         "early": "Empujar oleada para forzar Qs en minions",
         "mid": "Gravitum para anular su E",
@@ -59,6 +63,7 @@
       "support_synergy": ["Nami", "Milio", "Braum"],
       "win_rate": 47.5,
       "micro_strategy": "Burst Alert. Mantener distancia con Calibrum. Gravitum para repeler su Dash (E).",
+      "recommended_build": "Hyper Carry Critical (Dominik's + Shieldbow)",
       "counters": {
         "early": "Evitar trades de 2v2 a nivel 2",
         "mid": "Poner Gravitum Root si usa E agresivo",
@@ -72,6 +77,7 @@
       "support_synergy": ["Nautilus", "Leona", "Rell"],
       "win_rate": 50.1,
       "micro_strategy": "Evitar trades cortos aislados por su pasiva. Infernum castiga si se esconde en minions.",
+      "recommended_build": "DPS Sustained (Kraken + LDR)",
       "counters": {
         "early": "Empujar con Infernum para quitarle rango",
         "mid": "Gravitum para kitear su R dive",
@@ -85,6 +91,7 @@
       "support_synergy": ["Nautilus", "Rell", "Thresh"],
       "win_rate": 49.3,
       "micro_strategy": "Guarda Gravitum Q. Interrumpe su R instantáneamente. Nunca gastes Infernum R en su W (Blade Whirl).",
+      "recommended_build": "DPS Sustained (Kraken + LDR)",
       "counters": {
         "early": "Poke con Calibrum sin fallar habilidades",
         "mid": "Root con Gravitum antes de que salte",
@@ -98,6 +105,7 @@
       "support_synergy": ["Lux", "Morgana", "Karma"],
       "win_rate": 48.7,
       "micro_strategy": "Te superará en rango. Usa Calibrum para responder Poke. Severum para curarte de sus trampas.",
+      "recommended_build": "DPS Sustained (Kraken + Maw of Malmortius)",
       "counters": {
         "early": "No dejar que te empuje bajo torre",
         "mid": "Infernum para clear wave rápido",
@@ -111,10 +119,25 @@
       "support_synergy": ["Milio", "Lulu", "Karma"],
       "win_rate": 50.8,
       "micro_strategy": "Kiteable. Cuidado con su R (Arrow). Usa Cleanse o Gravitum para responder CC.",
+      "recommended_build": "Burst Assassination (Essence Reaver + Collector)",
       "counters": {
         "early": "Trata de esquivar la W detrás de minions",
         "mid": "Gravitum set-up para gank",
         "late": "Dps superior en melé"
+      }
+    },
+    {
+      "champion": "Xayah",
+      "tier": "A",
+      "threat_level": "Medium",
+      "support_synergy": ["Rakan", "Nautilus", "Thresh"],
+      "win_rate": 49.2,
+      "micro_strategy": "Cuidado con sus plumas en el suelo. Gravitum para rootear si intentan engage con combo R-W.",
+      "recommended_build": "Hyper Carry Critical (Phantom Dancer + IE)",
+      "counters": {
+        "early": "Mantenerse fuera de sus plumas",
+        "mid": "Crescendum DPS",
+        "late": "Infernum R"
       }
     }
   ]

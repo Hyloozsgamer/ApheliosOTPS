@@ -107,16 +107,16 @@ El orden de las armas es lo que separa a un usuario de Aphelios de un **System M
 
 Análisis avanzado de carriles inferiores para el Draft y Control de Fase.
 
-| Bot Lane Enemiga | Riesgo | Sinergias Sugeridas | Win Rate | Protocolo de Actuación (Coach) |
-| :--- | :---: | :--- | :---: | :--- |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png" width="25"> **Lucian** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png" width="25"> **Nami** | 🔴 ALTA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Thresh_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Braum_OriginalSquare.png" width="20"> | 46.5% | No tradear a nivel 2. Mantener distancia con Calibrum. Gravitum si salta agresivo. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png" width="25"> **Zeri** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Yuumi_OriginalSquare.png" width="25"> **Yuumi** | 🟢 BAJA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Pyke_OriginalSquare.png" width="20"> | 53.2% | Escalado libre. Castigar con Calibrum a rango máximo. Infernum R en teamfight gana solo. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png" width="25"> **Jinx** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png" width="25"> **Lulu** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png" width="20"> | 50.1% | Evitar trades de 1v1. Focus en peel. Guardar Gravitum para su engage o frenar su buff de velocidad. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png" width="25"> **Draven** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Leona_OriginalSquare.png" width="25"> **Leona**| 💀 EXTRA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Morgana_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Janna_OriginalSquare.png" width="20"> | 42.5% | **DANGER**. No empujes la wave. Juega seguro. Usa Severum para curarte de poke. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png" width="25"> **Samira** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Rell_OriginalSquare.png" width="25"> **Rell** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Alistar_OriginalSquare.png" width="20"> | 49.8% | Mantén Gravitum Q listo. Cancela su ultimate instantáneamente. Nunca gastes Infernum R en su W. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png" width="25"> **Caitlyn** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Lux_OriginalSquare.png/revision/latest?cb=20150402220552" width="25"> **Lux** | 🔴 ALTA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Soraka_OriginalSquare.png" width="20"> | 47.1% | Te zonearán. Limpia la wave con Infernum Rápido para que no te metan bajo torre a recibir poke gratis. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png" width="25"> **Ezreal** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Karma_OriginalSquare.png" width="25"> **Karma** | 🟢 BAJA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png" width="20"> | 54.0% | Ponerse detrás de minions para bloquear su Poke. Castigar con Crescendum si gastan CDs. |
-| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png" width="25"> **Xayah** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Rakan_OriginalSquare.png/revision/latest?cb=20170404193836" width="25"> **Rakan** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png" width="20"> | 49.2% | Cuidado con sus plumas en el suelo. Gravitum para rootear si intentan engage con combo R-W. |
+| Bot Lane Enemiga | Riesgo | Sinergias Sugeridas | Win Rate | Protocolo de Actuación (Coach) | Build Recomendada |
+| :--- | :---: | :--- | :---: | :--- | :--- |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png" width="25"> **Lucian** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png" width="25"> **Nami** | 🔴 ALTA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Thresh_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Braum_OriginalSquare.png" width="20"> | 46.5% | No tradear a nivel 2. Mantener distancia con Calibrum. Gravitum si salta agresivo. | **Hyper Carry Critical** ➔ *Dominik's + Shieldbow* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png" width="25"> **Zeri** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Yuumi_OriginalSquare.png" width="25"> **Yuumi** | 🟢 BAJA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Pyke_OriginalSquare.png" width="20"> | 53.2% | Escalado libre. Castigar con Calibrum a rango máximo. Infernum R en teamfight gana solo. | **Burst Assassination** ➔ *Collector First* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png" width="25"> **Jinx** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png" width="25"> **Lulu** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png" width="20"> | 50.1% | Evitar trades de 1v1. Focus en peel. Guardar Gravitum para su engage o frenar su buff de velocidad. | **Hyper Carry Critical** ➔ *IE Rush* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png" width="25"> **Draven** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Leona_OriginalSquare.png" width="25"> **Leona**| 💀 EXTRA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Morgana_OriginalSquare.png" width="20"> <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Janna_OriginalSquare.png" width="20"> | 42.5% | **DANGER**. No empujes la wave. Juega seguro. Usa Severum para curarte de poke. | **DPS Sustained** ➔ *Bloodthirster Rush* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png" width="25"> **Samira** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Rell_OriginalSquare.png" width="25"> **Rell** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Alistar_OriginalSquare.png" width="20"> | 49.8% | Mantén Gravitum Q listo. Cancela su ultimate instantáneamente. Nunca gastes Infernum R en su W. | **DPS Sustained** ➔ *Kraken + LDR* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png" width="25"> **Caitlyn** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Lux_OriginalSquare.png/revision/latest?cb=20150402220552" width="25"> **Lux** | 🔴 ALTA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Soraka_OriginalSquare.png" width="20"> | 47.1% | Te zonearán. Limpia la wave con Infernum Rápido para que no te metan bajo torre a recibir poke gratis. | **DPS Sustained** ➔ *Kraken + Maw of Malmortius* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png" width="25"> **Ezreal** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Karma_OriginalSquare.png" width="25"> **Karma** | 🟢 BAJA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png" width="20"> | 54.0% | Ponerse detrás de minions para bloquear su Poke. Castigar con Crescendum si gastan CDs. | **Burst Assassination** ➔ *Essence Reaver + Collector* |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png" width="25"> **Xayah** + <img src="https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Rakan_OriginalSquare.png/revision/latest?cb=20170404193836" width="25"> **Rakan** | 🟡 MEDIA | <img src="https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png" width="20"> | 49.2% | Cuidado con sus plumas en el suelo. Gravitum para rootear si intentan engage con combo R-W. | **Hyper Carry Critical** ➔ *Phantom Dancer + IE* |
 
 ---
 
@@ -239,6 +239,33 @@ Para activar la **Rotación Apex** (Severum -> Calibrum -> Gravitum...), debes v
 -   **Wave 1 y 2 (Slow Push)**: Solo das Last Hit. Deja que los minions se acumulen para formar una "Ola Gigante".
 -   **Wave 3 Crash (Vaciando Infernum)**: Empuja de golpe con `Infernum` para meter la ola bajo la torre enemiga.
 -   **Protocolo Cheater Recall**: Vuelve a base instantáneamente. El rival tendrá que farmear bajo torre y tú volverás con una Espada Larga intacta para ganar estadísticas.
+
+---
+
+### 📈 4.5. Gráfico de Farmeo (CS Goals) & Estimador de DPS por Arma
+
+#### 🎯 Minimum Minion Farm Goals (LCK Expectation)
+En elo alto, dictar el *Tempo* es sinónimo de generación de Oro. El hypercarry no puede matar sin objetos.
+
+| Fase de la Partida | Target (CS) | OPM (Oro Por Minuto aprox) | Mantenimiento Sugerido |
+| :---: | :---: | :---: | :--- |
+| **Minuto 10 (Early)** | `85 - 90 CS` | 320 OPM | Priorizar Last Hit con Calibrum sobre el poke agresivo. |
+| **Minuto 20 (Mid)** | `180 - 200 CS` | 410 OPM | Limpieza rápida con Infernum en Mid Lane y rotar a jungla / Objetivos. |
+| **Minuto 30 (Late)** | `300+ CS` | 500+ OPM | Tomar campamentos de jungla (Chakrams lo hacen gratis) y agruparse. |
+
+#### ⚔️ Estimador Visual de Rango vs. Multiplicador de DPS
+Mientras mayor riesgo (Menos rango), mayor recompensa de daño.
+
+| Arma | Rol Nominal | Multiplicador de DPS Base | Visual DPS Bar |
+| :--- | :--- | :---: | :--- |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Aphelios_Crescendum.png" width="25"> **Crescendum** | DPS Melé Extremo | **x2.5 a x3.5** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 (All-In Máximo) |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Aphelios_Infernum.png" width="25"> **Infernum** | DPS AOE Teamfight | **x1.2 a x2.0** | 🟨🟨🟨🟨🟨🟨 (Depende del Área) |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Aphelios_Severum.png" width="25"> **Severum** | Duelo / Move-Speed | **x1.2** | 🟩🟩🟩🟩 (Constante) |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Aphelios_Calibrum.png" width="25"> **Calibrum** | Seguridad (Rango) | **x1.0** | 🟦🟦 (Seguro pero Lento) |
+| <img src="https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Aphelios_Gravitum.png" width="25"> **Gravitum** | Utilidad / CC | **x0.8** | 🟪 (Pobre, enfocarse en Setup) |
+
+> [!TIP]
+> **Nota del Coach LCK:** "Nunca busques un duelo 1 contra 1 puro si tienes Gravitum o Calibrum como armas principales a menos que estés masivamente fedead0. Aphelios no es una metralleta constante, es una coreografía situacional de daño."
 
 ---
 
